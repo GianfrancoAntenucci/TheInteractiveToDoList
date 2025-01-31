@@ -9,3 +9,4 @@ An interactive ToDo list application that allows users to efficiently manage the
 - **Validate Tasks**: Only valid tasks (non-empty or sensible values) are allowed to be added.
 - **Delete Tasks**: Users can delete tasks from the list.
 - **Edit Tasks**: Users can modify existing tasks and save changes.
+- **Persistence**: The task list is persisted across page refreshes, thanks to local storage.
